@@ -1,0 +1,31 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "Dracula",
+  "description": "The Dracula theme for KiCad, with unofficial PCM support",
+  "description_full": "The official Dracula theme for KiCad is beautiful, but it still uses the outdated manual installation procdure. Here is a fork of that theme that brings it to the PCM!",
+  "identifier": "com.github.2231puppy.kicad-dracula",
+  "type": "colortheme",
+  "author": {
+    "name": "Dracula",
+    "contact": {
+      "web": "https://draculatheme.com"
+    }
+  },
+  "maintainer": {
+    "name": "2231puppy",
+    "contact": {
+      "web": "https://2231puppy.tech"
+    }
+  },
+  "license": "CC0-1.0",
+  "resources": {
+    "homepage": "https://github.com/2231puppy/kicad-dracula"
+  },
+  "versions": [
+    {
+      "version": "0.1",
+      "status": "testing",
+      "kicad_version": "6.0"
+    }
+  ]
+}
